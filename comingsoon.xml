@@ -6,7 +6,7 @@
 	<copyright>(c) 2022 Brian Teeman All rights reserved.</copyright>
 	<authorEmail>brian@teeman.net</authorEmail>
 	<authorUrl>https://brian.teeman.net</authorUrl>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
 	<description>PLG_SYSTEM_COMINGSOON_MANIFEST_DESCRIPTION</description>
 	<files>
@@ -92,7 +92,7 @@
 				<field
 					name="countdown_date"
 					type="calendar"
-					default="2023-11-01 00:00:00"
+					default="2025-11-01 00:00:00"
 					label="PLG_SYSTEM_COMINGSOON_CFG_COUNTDOWN_DATE"
 					description="PLG_SYSTEM_COMINGSOON_CFG_COUNTDOWN_DATE_DESC"
 					format="%Y-%m-%d %H:%M:%S"

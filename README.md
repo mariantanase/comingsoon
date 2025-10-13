@@ -10,7 +10,7 @@ While you are developing your web site this plugin will hide the site behind a C
 [Link](https://github.com/brianteeman/comingsoon/releases)
 
 ### Requirements
-- Joomla 4.x or Joomla 5.x
+- Joomla 4.x, 5.x or 6.x
 - Any template
 - No external libraries
 
